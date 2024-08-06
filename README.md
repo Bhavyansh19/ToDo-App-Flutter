@@ -19,11 +19,11 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/yourusername/ToDo-App.git
+    git clone [https://github.com/Bhavyansh19/ToDo-App-Flutter.git]
     ```
 2. **Navigate to the project directory**
     ```sh
-    cd ToDo-App
+    cd ToDo-App-Flutter
     ```
 3. **Install dependencies**
     ```sh
