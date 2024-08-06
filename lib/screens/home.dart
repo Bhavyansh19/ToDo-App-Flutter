@@ -115,7 +115,7 @@ class _HomeState extends State<Home> {
                     _addToDoItem(_todoController.text);
                   },
                   style: ElevatedButton.styleFrom(
-                    primary: tdBlue,
+                    backgroundColor: tdBlue,
                     minimumSize: Size(60, 60),
                     elevation: 10,
                   ),
@@ -210,7 +210,7 @@ class _HomeState extends State<Home> {
           width: 40,
           child: ClipRRect(
             borderRadius: BorderRadius.circular(20),
-            child: Image.asset('assets/images/avatar.jpeg'),
+            child: Image.asset('assets/images/avatar.png'),
           ),
         ),
       ]),
