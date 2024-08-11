@@ -13,26 +13,6 @@ A simple and intuitive ToDo application built using Flutter.
 
 ![ToDo-APP Screenshot](flutter-todo-iphone.png)
 
-## Installation
-
-To run this project on your local machine, follow these steps:
-
-1. **Clone the repository**
-    ```sh
-    git clone [https://github.com/Bhavyansh19/ToDo-App-Flutter.git]
-    ```
-2. **Navigate to the project directory**
-    ```sh
-    cd ToDo-App-Flutter
-    ```
-3. **Install dependencies**
-    ```sh
-    flutter pub get
-    ```
-4. **Run the app**
-    ```sh
-    flutter run
-    ```
 
 ## Usage
 
